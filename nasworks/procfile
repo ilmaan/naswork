@@ -1,1 +1,1 @@
-web: gunicorn NASWORKS.wsgi --log-file -
+web: gunicorn nasworks.wsgi --log-file -
