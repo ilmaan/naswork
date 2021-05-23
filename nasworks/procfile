@@ -1,0 +1,1 @@
+web: gunicorn NASWORKS.wsgi --log-file -
