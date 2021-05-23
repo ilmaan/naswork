@@ -25,7 +25,7 @@ SECRET_KEY = 'q31b05(+4+swu!ejii#(3hoipbfm5qo_krsir@im!8$e20&+xl'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://faizanzia.herokuapp.com','faizanzia.herokuapp.com']
+ALLOWED_HOSTS = ['https://faizanzia.herokuapp.com/','faizanzia.herokuapp.com/']
 
 
 # Application definition
