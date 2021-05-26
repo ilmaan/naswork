@@ -228,7 +228,7 @@ ul li:hover .slider p {
   .waves {
     height:140px;
     min-height:140px;
-    margin-top: 20%;
+    margin-top: 10%;
   }
   .content {
     height:30vh;
@@ -241,9 +241,10 @@ ul li:hover .slider p {
     top: 40%;
     left: 84%;
   }
- 
+
   .form1{
     margin-bottom: 40%;
+    height: 600px;
   }
 
 }
